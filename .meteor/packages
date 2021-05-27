@@ -1,0 +1,24 @@
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# angular-html-compiler
+# angular-scss-compiler
+# but you can also edit it by hand.
+# Check this file (and the other files in this directory) into your repository.
+# Meteor packages used by this project, one per line.
+# static-html
+# typescript
+accounts-password
+angular-compilers
+ecmascript@0.15.1              # Enable ECMAScript2015+ syntax in app code
+es5-shim@4.8.0                # ECMAScript 5 compatibility for older browsers
+johanbrook:publication-collector  # Test a Meteor publication by collecting its output
+meteor-base@1.4.0             # Packages every Meteor app needs to have
+meteortesting:mocha               # A package for writing and running your meteor app and package tests with mocha
+mobile-experience@1.1.0       # Packages for a great mobile UX
+mongo@1.11.0                   # The database Meteor supports right now
+reactive-var@1.0.11            # Reactive variable for tracker
+shell-server@0.5.0            # Server-side component of the `meteor shell` command
+standard-minifier-css@1.7.2   # CSS minifier run for production mode
+standard-minifier-js@2.6.0    # JS minifier run for production mode
+tracker@1.2.0                 # Dependency tracker to allow reactive callbacks
+accounts-base
